@@ -1,4 +1,4 @@
 # pdf
 *.pdf
 #except pdfs
-'The Time Course of Spatial Attention: Insights from Event-Related Brain Potentials.pdf'
+!'The Time Course of Spatial Attention: Insights from Event-Related Brain Potentials.pdf'
