@@ -1,5 +1,6 @@
 # pdf
 *.pdf
+# PDF
 *.PDF
 #except pdfs
 !The Time Course of Spatial Attention: Insights from Event-Related Brain Potentials.pdf
