@@ -1,7 +1,5 @@
+#self
+.gitignore
 # pdf
-*.pdf
-# PDF
-*.PDF
-*.png
+[Oxford Library of Psychology] Kia Nobre, Sabine Kastner - The Oxford Handbook of Attention (2014, Oxford University Press).pdf
 #except pdfs
-!The Time Course of Spatial Attention: Insights from Event-Related Brain Potentials.pdf
