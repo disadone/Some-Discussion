@@ -12,12 +12,13 @@ Several researchers have argued that **rostrolateral prefrontal cortex (RLPFC)**
 <img src=2.png/>
 (Neurocognitive development of relational reasoning)
 
-## Transitive inference ,Memory and Hippocampus
+## Transitive inference , Memory and Hippocampus
 Previous neuroscientific studies of transitive inferencehave focused primarily on the role of the hippocampus, a region implicated in relational memory.
 
 * hippocampus was implicated in transitive inference over **odor relationships** in rats
 
 <img src=3.png/>
+
 ([The hippocampus and memory for orderly stimulus relations](https://www.pnas.org/content/pnas/94/13/7109.full.pdf))
 
 * fMRI in human
