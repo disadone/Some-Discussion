@@ -3,7 +3,7 @@
 ## Relation Integration Inspired them
 Several researchers have argued that **rostrolateral prefrontal cortex (RLPFC)** plays a key role in **relational integration**. If this hypothesis is correct, then RLPFC should play a key role in **transitive inference**, which requires the **integration of multiple relations** to reach a conclusion.
 
-##Why does RLPFC relate to Relation Integration 
+## Why does RLPFC relate to Relation Integration 
 * **Propositional analogy tasks**:comparison of relations
 <img src=1.png/>
 (Analogical reasoning and prefrontal cortex:Evidence for separable retrieval and integrationmechanisms)
