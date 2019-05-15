@@ -13,5 +13,5 @@
   </tr>
 </table>
 
-
+<img src='Dopamine_and_serotonin_pathways.png'/>
 
