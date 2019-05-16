@@ -7,6 +7,7 @@ Whereas some research indicates that the insula is important in representing a v
 与此同时，一些研究表明脑岛在表示多种情绪的内在身体线索，另一些研究强调其在厌恶情绪上的特殊角色。有趣的是，一些非人灵长类的研究表明脑岛的一部分是作为基本的味觉区域。味觉与情绪有什么关系呢？一条线索是由作呕（fill with distaste）引出的，直白地讲就是“坏的味道”所引出的。虽然作呕是一种与腐烂食物或者馊味联系起来的，这个词也有更广泛的含义。查理斯.达尔文记录道，我们在精神排斥的情况下的面部表情是和我们在躲避令人作呕的食物时一样的。研究者通过展示在人们在品尝不好喝的液体时，看有污物（例如粪便或昆虫）的照片或者在社交游戏中经受不公正的待遇时具有相同面部表情的肌肉活动证实了达尔文的观察。
 
 <img src='f1.png'/>
+
 Figure 12.10 Activation of the insula during an interoceptive judgment task.
 Participants had to determine whether a series of tones matched their own heartbeat. Those who performed better at the task (compared to performance on a control task involving detection of notes) had more activity in the right insula. Panel A shows the right insula region (in white circle) and panel B shows the correlation between activity in that region and performance.
 
