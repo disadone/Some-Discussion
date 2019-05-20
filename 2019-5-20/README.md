@@ -16,7 +16,6 @@ If you’ve carefully followed our discussion of hemispheric differences in perc
 <img src='p3.png'/>
 *When two participants interact in face-to-face conversation, the more expressive left side of one person’s face is projected onto the less-sensitive right visual field of the other person. This illustrates the paradoxical outcome when both participants have right-hemisphere specialization for emotional expression and perception. However, people tend to adapt to this phenomenon in real life by turning the head to show more of the left side of the face.*
 
-
 Interestingly, some research has shown that when people wish to communicate emotional information, they turn slightly to show more of the left side of the face. Analyses of portraits throughout history reflect a bias toward showing more of the left portion of the face, unless the portraits were made of scientists, who presumably put less emphasis on emotional expressivity (McManus and Humphrey, 1973; Nicholls et al., 1999). When participants are asked to pose for a photograph in which they are encouraged to show their emotions, they are more likely to show the left cheek than if asked to pose for an “impassive” photo (Nicholls et al., 1999). This turning bias in portraiture illustrates how cerebral asymmetries for emotion can subtly manifest themselves in everyday life.
 
 有趣的是，一些研究显示当人们愿意交流情绪信息时，他们倾向于稍稍展示左侧更多的面部。对历史中肖像的分析反映了对于展示更多左侧脸的偏好，除非肖像是科学家的，他们更少强调情绪的表现性。当被试为拍照摆动作，他们被鼓励来展示他们的情绪时，他们更倾向于展示左脸颊相较于被要求摆出“没感觉的”照片的情形。这个在肖像中的转向偏好显示大脑对于情绪的不对称性可以在日常生活中稍稍展现自己。
