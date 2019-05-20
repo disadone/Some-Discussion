@@ -7,6 +7,7 @@ In another approach, typically used with neurologically intact individuals, the 
 *Although we think of people’s faces as symmetrical, asymmetries can be seen. Note the asymmetrical expressions on some well-known faces: (A) the Mona Lisa, (B) Marilyn Monroe, (C) Elvis Presley, and (D) John Wayne.*
 
 <img src='p2.png'/>
+
 *An original photograph of the face, shown here in (A), is bisected. Then, each half-face is spliced together with its mirror-image to create a composite. Note the difference between the two composites depicted in (B) and (C). Which one looks more emotionally intense to you? Usually, individuals choose the composite composed of two left half-faces, depicted in (B), as more intense than the composite composed of two right half-faces, depicted in (C). This result suggests that the right hemisphere, which controls the lower left half of the face, has a larger role in producing facial emotional expression.*
 
 If you’ve carefully followed our discussion of hemispheric differences in perception and expression of emotion in the face, you may have noticed an odd paradox. Remember that, because of right-hemisphere specialization for emotional expression and perception, emotion is most strongly expressed on the left side of a poser’s face (due to right-hemisphere specialization in the poser), and that people are best at understanding emotional expressions seen in the left visual field or left side of space (due to right-hemisphere specialization in the viewer). This means that for two people directly facing each other in a communication context, the most expressive side of the poser’s face will fall into the least sensitive half field of the viewer! (See Figure 12.22 if you are having some left–right confusion.) This doesn’t seem to be optimally adaptive for the purpose of communication.
@@ -14,7 +15,9 @@ If you’ve carefully followed our discussion of hemispheric differences in perc
 如果你仔细读了我们关于在面部感知和情绪中半球的差异，你也许已经注意到了一个奇怪的悖论。请记住，因为右半球对面部表情和感知具有专业功能，情绪很大程度上一个在做面部表情的人左侧（由于做表情的人的右脑专业功能），人们擅长在左视野或者左侧空间出现的情绪表情（由于观察者右脑的专业功能）。这意味着在一个交流情境中两个人面对面时，做表情的人最能表现情绪的一侧展示给了观察者对情绪不敏感的一侧（见图12.2如果你对左右有困惑）这看起来并不最适合交流的目的。
 
 <img src='p3.png'/>
+
 *When two participants interact in face-to-face conversation, the more expressive left side of one person’s face is projected onto the less-sensitive right visual field of the other person. This illustrates the paradoxical outcome when both participants have right-hemisphere specialization for emotional expression and perception. However, people tend to adapt to this phenomenon in real life by turning the head to show more of the left side of the face.*
+
 
 Interestingly, some research has shown that when people wish to communicate emotional information, they turn slightly to show more of the left side of the face. Analyses of portraits throughout history reflect a bias toward showing more of the left portion of the face, unless the portraits were made of scientists, who presumably put less emphasis on emotional expressivity (McManus and Humphrey, 1973; Nicholls et al., 1999). When participants are asked to pose for a photograph in which they are encouraged to show their emotions, they are more likely to show the left cheek than if asked to pose for an “impassive” photo (Nicholls et al., 1999). This turning bias in portraiture illustrates how cerebral asymmetries for emotion can subtly manifest themselves in everyday life.
 
