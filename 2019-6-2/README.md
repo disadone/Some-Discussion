@@ -22,6 +22,17 @@ Volition	|Reduced motivation and interest in pursuing almost any sort of goal. T
 Relationship to the external world	|Withdrawal from the external world and preoccupation with internal fantasies and odd ideas.
 Psychomotor behavior	|Abnormalities of movement, including rocking, pacing, stereotyped actions, and bizarre behavioral rituals. Some patients diagnosed with schizophrenia become almost totally immobile; others take on a disheveled look or dress oddly, against social norms.
 
+|类型|症状|
+思想内涵|妄想或错误信念。
+思维方式|一种涉及一个人思考过程是有条理的异常的正式的思维障碍。“缺乏关联”，指想法从一个地方跳到另一个无关地方，是这种类型症状的一个通常例子。
+感知|发生幻觉或者报告似乎是存在无法观察的东西对其产生刺激的经历。
+情感|情绪不安。大多数情绪是迟钝，平淡或者对于状况并不适合。
+自我意识|对自我认同的困惑。人会感到不真实或者被外界所控制。
+意志|减少追求几乎所有类型目标的动机和兴趣。这些症状严重干扰了一个人的工作能力。
+与外界的关系|撤出外部世界并且追求内部幻想和奇怪的想法。
+精神病行为|运动异常，包括摇摆，踱步，刻板行为和奇怪的行为仪式。一些被诊断为精神分裂症的病人几乎完全不能动；另一些人外表脏乱或者穿着奇特，违反社会规范。
+
+
 **flat affect** the absence or near absence of emotional response to a situation that normally elicits emotion. It is observed in schizophrenia and some depressive disorders. Also called flattened affect.
 
 **prognosis**A forecast of the probable course and/or outcome of a disease.
