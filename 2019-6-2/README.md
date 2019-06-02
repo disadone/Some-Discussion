@@ -23,6 +23,7 @@ Relationship to the external world	|Withdrawal from the external world and preoc
 Psychomotor behavior	|Abnormalities of movement, including rocking, pacing, stereotyped actions, and bizarre behavioral rituals. Some patients diagnosed with schizophrenia become almost totally immobile; others take on a disheveled look or dress oddly, against social norms.
 
 |类型|症状|
+|---|---|
 思想内涵|妄想或错误信念。
 思维方式|一种涉及一个人思考过程是有条理的异常的正式的思维障碍。“缺乏关联”，指想法从一个地方跳到另一个无关地方，是这种类型症状的一个通常例子。
 感知|发生幻觉或者报告似乎是存在无法观察的东西对其产生刺激的经历。
