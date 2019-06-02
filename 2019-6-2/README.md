@@ -2,9 +2,9 @@ Many researchers group symptoms of schizophrenia into two main categories: posit
 
 许多研究人员将精神分裂症分为两类：积极症状和消极症状。阳性症状是指在平常行为中表现过度或者扭曲，而消极症状指缺少平常的行为。积极症状包括出现幻觉，妄想和对于外人看来奇怪和不理性的未经组织的想法和行为。幻觉包括感知不存在的东西，例如在脑中听到声音或看到“远景”或者幻影。精神分裂症中的幻觉可以以任何感官模态中发生，但是幻听是最典型的症状。妄想是不理性的信念，例如认为FBI正在窃听你的手机（偏执幻想）或者相信你是弥赛亚（夸大幻想）。
 
-Negative symptoms include apathy (lack of motivation), [flattened affect](https://medical-dictionary.thefreedictionary.com/flat+affect) (lack of emotional responsiveness), and failures of volition or self-directed behavior. Much research has focused on positive symptoms, probably because they are the most florid and obviously disruptive. However, negative symptoms can also greatly interfere with the person’s ability to function normally. Negative symptoms are associated with a poorer [prognosis](https://medical-dictionary.thefreedictionary.com/prognosis) and are less easily treated by antipsychotic medications (e.g., Velligan et al., 2014).
+Negative symptoms include apathy (lack of motivation), [flattened affect](https://medical-dictionary.thefreedictionary.com/flat+affect) (lack of emotional responsiveness), and failures of volition or self-directed behavior. Much research has focused on positive symptoms, probably because they are the most [florid](https://medical-dictionary.thefreedictionary.com/florid) and obviously disruptive. However, negative symptoms can also greatly interfere with the person’s ability to function normally. Negative symptoms are associated with a poorer [prognosis](https://medical-dictionary.thefreedictionary.com/prognosis) and are less easily treated by antipsychotic medications (e.g., Velligan et al., 2014).
 
-消极症状包括情感冷漠（缺乏动机），情感贫乏（缺乏情感响应）和意志或自我导向行为的失败。许多研究关注于积极症状，可能因为这些症状华丽绚烂并且具有明显的破坏力。然而，消极症状也可以大大地干扰人的正常运作能力。消极症状与较差的预后有关并且不太容易通过抗精神病的药物治疗。
+消极症状包括情感冷漠（缺乏动机），情感贫乏（缺乏情感响应）和意志或自我导向行为的失败。许多研究关注于积极症状，可能因为这些症状发展完全并且具有明显的破坏力。然而，消极症状也可以大大地干扰人的正常运作能力。消极症状与较差的预后有关并且不太容易通过抗精神病的药物治疗。
 
 
 Regardless of diagnostic type, patients tend to show a combination of symptoms from a set of eight categories that are listed in Table 14.1. As you can see, these symptoms cross several domains of functioning, including motor functions, perception, emotion, motivation, and executive function. Therefore, it should not be surprising that multiple brain systems are thought to be affected in this disorder.
@@ -27,7 +27,7 @@ Psychomotor behavior	|Abnormalities of movement, including rocking, pacing, ster
 思想内涵|妄想或错误信念。
 思维方式|一种涉及一个人思考过程是有条理的异常的正式的思维障碍。“缺乏关联”，指想法从一个地方跳到另一个无关地方，是这种类型症状的一个通常例子。
 感知|发生幻觉或者报告似乎是存在无法观察的东西对其产生刺激的经历。
-情感|情绪不安。大多数情绪是迟钝，平淡或者对于状况并不适合。
+情感|情绪紊乱。大多数情绪是迟钝，平淡或者对于状况并不适合。
 自我意识|对自我认同的困惑。人会感到不真实或者被外界所控制。
 意志|减少追求几乎所有类型目标的动机和兴趣。这些症状严重干扰了一个人的工作能力。
 与外界的关系|撤出外部世界并且追求内部幻想和奇怪的想法。
