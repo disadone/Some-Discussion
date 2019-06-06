@@ -1,2 +1,2 @@
 # Cognitive Neuroscience(BOOK) Search
-[GOTO](http://78.141.201.126/cn.html)
+[GOTO](http://95.179.224.11/cn.html)
