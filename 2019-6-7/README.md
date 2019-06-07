@@ -19,14 +19,14 @@ Another aspect of frontal lobe functioning that has been consistently related to
 
 An additional frontal region has been implicated specifically in treatment-resistant depression, that is, depression that does not improve following standard treatments. The relevant region is the subgenual region of the anterior cingulate cortex, illustrated in Figure 14.10. This region is highly interconnected with other regions involved in emotion, such as the hypothalamus, which controls the body’s stress responses, and the insula, which represents bodily states. Dysregulation in the subgenual cingulate cortex may be especially related to the somatic and vegetative symptoms of depression. High activity in this region in a resting state in someone with depressive symptoms appears to predict poor response to typical treatments for depression, prompting the search for alternative treatments (Dunlop and Mayberg, 2014). Such findings indicate the potential for cognitive neuroscience approaches to identify participants who would benefit from particular kinds of treatment based on pre-treatment brain activity.
 
-额叶的另一个区域特别与治疗顽固型抑郁症有关，治疗顽固型抑郁症是指依照标准治疗方法没有改善的抑郁症。相关的区域是前扣带皮质的下属区域，如图14.10所示。这一区域与其他涉及情绪的区域高度相连，例如下丘脑，控制身体压力响应和脑岛，代表身体状态。扣带皮质下属区域的失能可能与抑郁的躯体和植物性症状有关。患有抑郁症的人在静息状态下这一区域的高度活动似乎预测了对于抑郁症典型治疗方法的糟糕效果，促使搜寻另一方法。这些发现表明，认知科学方法对于基于治疗前大脑活动的进行特别治疗使患者受益的潜能。
+额叶的另一个区域特别与治疗顽固型抑郁症有关，治疗顽固型抑郁症是指依照标准治疗方法没有改善的抑郁症。相关的区域是前扣带皮质的下膝状区域，如图14.10所示。这一区域与其他涉及情绪的区域高度相连，例如下丘脑，控制身体压力响应和脑岛，代表身体状态。扣带皮质下膝状区域的失能可能与抑郁的躯体和植物性症状有关。患有抑郁症的人在静息状态下这一区域的高度活动似乎预测了对于抑郁症典型治疗方法的糟糕效果，促使搜寻另一方法。这些发现表明，认知科学方法对于基于治疗前大脑活动的进行特别治疗使患者受益的潜能。
 
 
 <img src='f12.png'/>
 
 Figure 14.10 Subgenual region of the prefrontal cortex that is implicated in depression.
 
-图14.10 涉及抑郁的前额皮质的下属区域
+图14.10 涉及抑郁的前额皮质的下膝状区域
 
 This region shows increased activity in depressed compared to nondepressed people. Furthermore, activity in this region decreases when therapeutic interventions, such as antidepressant drugs or [**electroconvulsive therapy**](https://www.mayoclinic.org/tests-procedures/electroconvulsive-therapy/about/pac-20393894)(ECT), are effective.
 
