@@ -28,7 +28,7 @@ To understand brain development, let us start at the beginning (for review, see 
 
 Around the seventh week of gestation, the nerve cells and glia near the inside of the tube divide, proliferate, and then begin to migrate outward. Neurogenesis, or the generation of new nerve cells, occurs in the area right around the ventricle (see Figure 15.2). In this process, the tube acts much like a port around which the initial neural settlers will reside. As more neurons are generated, the central areas around the ventricle become settled, and then the new neurons, like new immigrants to a city, must traverse further out to find a place to live. As the brain grows, new neurons travel further and further out to the metaphorical suburbs of the brain. Glial cells provide the scaffolding or “roads” along which nerve cells can migrate to their ultimate destinations (Figure 15.3). Thus, the six layers of cortex are built from the inside out; the first set of cells migrates to the deepest (innermost) layer of the cortex (the sixth), the next set of cells to the fifth cortical layer, and so forth.
 
-大约妊娠期第七周，在管子内部的神经细胞和胶质分化，增殖并且开始向外迁移。神经发生或者新神经细胞的产生，恰恰发生在脑室周围（见图15.2）。在这个过程中，管子像是一个初始神经元的定居者会住在里面的港口。随着更多的神经元产生，脑室周围的中心区域变得固定下来，并且之后新的神经元，像到一个城市的新移民，必须向外来寻找一个居住的地方。随着大脑鞭打，新的神经元旅行的越来越远到达大脑所谓的郊区。胶质细胞提供了支架或者“道路”，神经细胞可以沿着这些到与迁移到最终的目的地（图15.3）。因此，皮质的六层从里到外建立；第一组细胞见一到皮质的最深层（第六层），下一组细胞到皮质的第五曾，以此类推。
+大约妊娠期第七周，在管子内部的神经细胞和胶质分化，增殖并且开始向外迁移。神经发生或者新神经细胞的产生，恰恰发生在脑室周围（见图15.2）。在这个过程中，管子像是一个初始神经元的定居者会住在里面的港口。随着更多的神经元产生，脑室周围的中心区域变得固定下来，并且之后新的神经元，像到一个城市的新移民，必须向外来寻找一个居住的地方。随着大脑变大，新的神经元旅行的越来越远到达大脑所谓的郊区。胶质细胞提供了支架或者“道路”，神经细胞可以沿着这些到与迁移到最终的目的地（图15.3）。因此，皮质的六层从里到外建立；第一组细胞见一到皮质的最深层（第六层），下一组细胞到皮质的第五曾，以此类推。
 
 <img src='f2.png'/>
 Figure 15.2 Neurogenesis.
