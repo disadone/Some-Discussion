@@ -1,10 +1,10 @@
-#Development of the Brain
+# Development of the Brain
 
 The brain changes in numerous ways from the beginning of life to adulthood. As you can imagine, an infant’s brain does not look exactly like an adult’s brain! You might think that the brain simply grows bigger as the child grows bigger, but the story is actually quite a bit more complex. While some aspects of neural development can be thought of simply as “growth” or proliferation, other aspects involve a more complex sculpting of nerve cells, their pattern of connections, and their organization. At all stages of development, from childhood through adolescence and adulthood, the challenge for researchers is not only to document how the brain changes, but also to understand how physical changes in the brain relate to developing cognitive and emotional skills.
 
 从出生到成年，大脑以多种方式改变。正如你想象的那样，婴儿的大脑不完全像成人的大脑！你可能认为大脑简单地随着儿童成长而成长，但是故事实际上是更加复杂一点。虽然神经发育的一些方面可以被认为是“增长”或者增殖，其他方面涉及个更复杂的神经细胞形状，它们连接的模式，和它们的组织方式。在所有发育的阶段，从童年到青春期到成年，研究人员面临的挑战不仅仅是记录大脑是如何变化的，还要理解与大脑中相关认知与情绪能力的生理变化。
 
-##Changes in the Brain During Childhood
+## Changes in the Brain During Childhood
 
 Figure 15.1 gives an overview of the time course of major events during neural development. You can immediately notice several things from this figure. First, many processes take place during development, including cell proliferation and migration, development of synapses, and myelination. Second, each of these processes has its own time course; some processes take place primarily before birth, whereas others continue throughout adolescence. Finally, development cannot be thought of simply as a linear progression of growth. As you can see from the figure, processes such as the generation of synapses show an inverted-U function, rising and then falling, indicating initial increases and proliferation followed by subsequent reduction, pruning, or sculpting.
 
