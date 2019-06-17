@@ -1,5 +1,6 @@
 # Development of the Brain
 
+
 The brain changes in numerous ways from the beginning of life to adulthood. As you can imagine, an infant’s brain does not look exactly like an adult’s brain! You might think that the brain simply grows bigger as the child grows bigger, but the story is actually quite a bit more complex. While some aspects of neural development can be thought of simply as “growth” or proliferation, other aspects involve a more complex sculpting of nerve cells, their pattern of connections, and their organization. At all stages of development, from childhood through adolescence and adulthood, the challenge for researchers is not only to document how the brain changes, but also to understand how physical changes in the brain relate to developing cognitive and emotional skills.
 
 从出生到成年，大脑以多种方式改变。正如你想象的那样，婴儿的大脑不完全像成人的大脑！你可能认为大脑简单地随着儿童成长而成长，但是故事实际上是更加复杂一点。虽然神经发育的一些方面可以被认为是“增长”或者增殖，其他方面涉及个更复杂的神经细胞形状，它们连接的模式，和它们的组织方式。在所有发育的阶段，从童年到青春期到成年，研究人员面临的挑战不仅仅是记录大脑是如何变化的，还要理解与大脑中相关认知与情绪能力的生理变化。
@@ -46,5 +47,5 @@ Cells that migrate away from the ventricular zone often travel along radial glia
 
 By six months of gestation, most neurons have been produced. Because the development of the cortex is protracted during gestation, there is ample opportunity for disruption of the typical pattern. We will discuss syndromes involving disrupted development later in this chapter, including dyslexia and [fetal alcohol syndrome](https://www.mayoclinic.org/diseases-conditions/fetal-alcohol-syndrome/symptoms-causes/syc-20352901).
 
-通过六个月的妊娠，大多数神经元已经被产生了。因为皮质的发育是在妊娠期是旷日持久的，所以有大量的机会破环典型的大脑模式。我们将会在本章后面讨论涉及破坏性发育的综合征，包括语言障碍和胎儿乙醇综合征。
+通过六个月的妊娠，大多数神经元已经被产生了。因为皮质的发育是在妊娠期是旷日持久的，所以有大量的机会破环典型的大脑模式。我们将会在本章后面讨论涉及破坏性发育的综合征，包括诵读困难和胎儿乙醇综合征。
 
