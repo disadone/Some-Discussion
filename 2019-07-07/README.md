@@ -12,7 +12,7 @@ TYPE OF DEMENTIA痴呆的类型
 |Personality个性|Apathetic缺乏感情的|Unconcerned or euphoric无忧虑或者情绪高涨|
 |Mood情绪|Affective disorder common (depression or mania)普遍的？情感障碍（抑郁或者狂热）|Normal正常|
 |**Motor System运动系统**|||
-|Speech讲话|Dysarthric构音障碍|Normal正常*|
+|Speech讲话|[Dysarthric](https://www.mayoclinic.org/diseases-conditions/dysarthria/symptoms-causes/syc-20371994)构音障碍|Normal正常*|
 |Posture姿势|Abnormal不正常|Normal, upright正常，直立*|
 |Gait步态|Abnormal不正常|Normal正常*|
 |Motor speed运动速度|Slow慢|Normal正常*|
