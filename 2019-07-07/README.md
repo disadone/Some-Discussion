@@ -1,6 +1,7 @@
 **Table 16.3** Major Characteristics Distinguishing Cortical and Subcortical Dementias
 
-|TYPE OF DEMENTIA|||
+TYPE OF DEMENTIA
+
 |CHARACTERISTIC|SUBCORTICAL|CORTICAL|
 |---|---|---|
 |**Mental Status**|||
